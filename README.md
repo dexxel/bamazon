@@ -1,4 +1,4 @@
-# bamazon-
+# bamazon
 
 Bamazon is an Amazon-like storefront that stores stock information in a database and allows the customer to purchase items and deplete the stock from the store's inventory. 
 
